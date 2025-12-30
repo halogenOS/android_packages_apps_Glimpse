@@ -23,6 +23,7 @@ android_app {
         "Gallery",
         "Gallery3D",
         "GalleryNew3D",
+        "Gallery2",
     ],
 
     required: [
